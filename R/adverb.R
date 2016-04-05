@@ -57,6 +57,7 @@ adverb_manner <- c(
   "tenderly",
   "thoughtfully",
   "truthfully",
+  "verbally",
   "warmly",
   "well",
   "wisely"
